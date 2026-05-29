@@ -1,0 +1,13 @@
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 960px;
+}
+
+.square {
+  width: 60px;
+  height: 60px;
+  background-color: white;
+  border: 1px solid #ccc;
+  box-sizing: border-box; /* évite que la bordure agrandisse les carrés */
+}
