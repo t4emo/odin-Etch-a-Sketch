@@ -1,13 +1,13 @@
 # Etch-a-Sketch
 
-Projet du cursus The Odin Project. Une grille de dessin interactive dans le navigateur.
+The Odin Project assignment. An interactive drawing grid in the browser.
 
-## Fonctionnalités
+## Features
 
-- Grille générée en JavaScript avec Flexbox
-- Passage de souris colore les cases en couleurs aléatoires
-- Bouton pour changer la taille de la grille (max 100x100)
-- Bouton reset pour effacer le dessin
+- Grid generated with JavaScript and Flexbox
+- Hovering over squares colors them with random colors
+- Button to change grid size (max 100x100)
+- Reset button to clear the drawing
 
 ## Live
 
